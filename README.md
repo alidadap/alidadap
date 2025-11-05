@@ -1,19 +1,15 @@
-
-<div style="color: white; background-color: black; font-family: sans-serif; text-transform: capitalize;">
-    <h1 style="ext-transform: capitalize; text-align: center;">hello i'am ali</h1>
-    <hr>
-    <h3>just a junior developer</h3>
-    <h2>my skils is :</h2>
+ <h1 style="text-align: center;">Hello I'am Ali</h1>
+    <p style="text-align: center;">Just A Junior Developer</p>
+    <h2>My Skils Is :</h2>
     <ul>
-        <li>programing language <span style="color: green;">python</span></li>
-        <li>backend with <span style="color: gray;">flask</span></li>
+        <li><span style="color: green;">Python</span> Programing Language</li>
+        <li>Backend With <span style="color: gray;">Flask</span></li>
     </ul>
-    <h2>i'm learning :</h2>
+    <h2>I'm Learning :</h2>
     <ul>
-        <li>pandas and </li>
-        <li>numpy</li>
+        <li>Pandas And Numpy</li>
+        <li>Rust Programing Language</li>
     </ul>
+    <h2>I Love Low Level Programing Languages</h2>
     <br><br><br>
-    <h2>and i'm playing CTF</h2>
-
-</div>
+    <h2>And I'm Playing CTF</h2>
