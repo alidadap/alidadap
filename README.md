@@ -1,15 +1,3 @@
-<style>
-    body {
-        color: aliceblue;
-        background-color: black;
-        font-family: sans-serif;
-        text-transform: capitalize;
-    }
-
-    .titr {
-        text-align: center;
-    }
-</style>
 
 <div style="color: aliceblue; background-color: black; font-family: sans-serif; text-transform: capitalize;">
     <h1 style="text-align: center;">hello i'am ali</h1>
