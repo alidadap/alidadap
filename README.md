@@ -10,6 +10,5 @@
         <li>Pandas And Numpy</li>
         <li>Rust Programing Language</li>
     </ul>
-    <h2>I Love Low Level Programing Languages</h2>
-    <br><br><br>
-    <h2>And I'm Playing CTF</h2>
+    <p>I Love Low Level Programing Languages</p>
+    <p>And I'm Playing CTF</p>
