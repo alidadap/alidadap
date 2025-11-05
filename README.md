@@ -1,6 +1,6 @@
 
 <div style="color: white; background-color: black; font-family: sans-serif; text-transform: capitalize;">
-    <h1 style="text-align: center;">hello i'am ali</h1>
+    <h1 style="ext-transform: capitalize; text-align: center;">hello i'am ali</h1>
     <hr>
     <h3>just a junior developer</h3>
     <h2>my skils is :</h2>
