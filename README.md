@@ -1,5 +1,5 @@
 
-<div style="color: aliceblue; background-color: black; font-family: sans-serif; text-transform: capitalize;">
+<div style="color: white; background-color: black; font-family: sans-serif; text-transform: capitalize;">
     <h1 style="text-align: center;">hello i'am ali</h1>
     <hr>
     <h3>just a junior developer</h3>
